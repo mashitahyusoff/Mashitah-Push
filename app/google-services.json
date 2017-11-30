@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "542241503820",
+    "firebase_url": "https://mashitah-push.firebaseio.com",
+    "project_id": "mashitah-push",
+    "storage_bucket": "mashitah-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542241503820:android:615fc95265978e23",
+        "android_client_info": {
+          "package_name": "com.example.mashitah_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542241503820-pd5osb7indjdo70jvtja2mmil285781o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApPsr-SF69tz9LNGtS1tfyqJj7JbnKt-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
